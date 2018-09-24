@@ -1,0 +1,8 @@
+[package]
+name = "objctest"
+version = "0.1.0"
+authors = ["Andrew Dunham <adunham@stripe.com>"]
+
+[dependencies]
+objc = "0.2"
+objc-foundation = "*"
